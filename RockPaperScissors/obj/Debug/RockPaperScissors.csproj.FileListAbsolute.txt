@@ -1,0 +1,6 @@
+c:\users\lewis.lappin\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+c:\users\lewis.lappin\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
+c:\users\lewis.lappin\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+c:\users\lewis.lappin\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+c:\users\lewis.lappin\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+c:\users\lewis.lappin\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
