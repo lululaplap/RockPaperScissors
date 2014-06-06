@@ -4,3 +4,7 @@ c:\users\lewis.lappin\documents\visual studio 2012\Projects\RockPaperScissors\Ro
 c:\users\lewis.lappin\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
 c:\users\lewis.lappin\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
 c:\users\lewis.lappin\documents\visual studio 2012\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Users\lewis.lappin\Documents\Visual Studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\EntityFramework.dll
+C:\Users\lewis.lappin\Documents\Visual Studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lewis.lappin\Documents\Visual Studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\EntityFramework.xml
+C:\Users\lewis.lappin\Documents\Visual Studio 2012\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\EntityFramework.SqlServer.xml
